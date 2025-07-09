@@ -2,6 +2,8 @@
 
 Progress tracking, gamification, and analytics service for the Spool platform.
 
+**Status:** ✅ Deployed to CodeBuild
+
 ## Overview
 
 The Progress Service is responsible for:
